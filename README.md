@@ -1,4 +1,4 @@
-# IoT--Based-Robotic-Hand-Gripper-
+# IoT--Based-Robotic-Hand-Gripper
 This project demonstrates the design and development of an IoT-based robotic hand gripper capable of gripping and releasing objects through wireless control. The system integrates mechanical components with electronics to perform basic object manipulation.
 
 Features
