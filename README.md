@@ -26,7 +26,3 @@ Learning Outcomes
 - Team Collaboration
 - Hardware Integration
 
-Author
-Sameer Kumar Purbey
-B.Tech, Mechanical Engineering
-IIT Ropar
